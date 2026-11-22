@@ -2,6 +2,8 @@
 
 A macOS menu bar app that keeps folders sorted. Each watched folder has its own regex rules. When a file lands in the folder, the first rule whose pattern matches the file name acts on it.
 
+<img src="docs/menubar.png" width="438" alt="congruitas menu bar panel: Downloads expanded with three rules, two files marked for the Trash, and recent moves and renames">
+
 ## Rules
 
 | Action | Template | Example |
